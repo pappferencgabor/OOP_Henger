@@ -1,0 +1,15 @@
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.csproj.AssemblyReference.cache
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.AssemblyInfoInputs.cache
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.AssemblyInfo.cs
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.csproj.CoreCompileInputs.cache
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\bin\Debug\net6.0\OOP_Henger.exe
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\bin\Debug\net6.0\OOP_Henger.deps.json
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\bin\Debug\net6.0\OOP_Henger.runtimeconfig.json
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\bin\Debug\net6.0\OOP_Henger.dll
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\bin\Debug\net6.0\OOP_Henger.pdb
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.dll
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\refint\OOP_Henger.dll
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.pdb
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\OOP_Henger.genruntimeconfig.cache
+C:\Users\papp.ferenc.gabor\Desktop\Papp Ferenc Gábor\OOP_Henger\OOP_Henger\obj\Debug\net6.0\ref\OOP_Henger.dll
